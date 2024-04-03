@@ -1,6 +1,5 @@
-## by day, I wrangle code. by night, I tame dragons (metaphorical, mostly).  fueled by caffeine & curiosity. building the future of web with nice languages & friends.
+## by day, I wrangle code. by night, I tame dragons (bugs, mostly). fueled by caffeine & curiosity. building the future of web with nice languages & friends.
 
-Blog: https://geekdom.vercel.app <br>
-Portfolio: https://moses.brimble.app
+i write sometimes here: https://geekdom.vercel.app <br>
 
 shoot mail: adebayomoses597@gmail.com
