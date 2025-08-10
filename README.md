@@ -1,6 +1,4 @@
-## designer, engineer, wild reader, curiosity. zero chill.
+## Software engineer, designer, researcher. relentless curiosity.
 
-i write sometimes here: https://blog.mosess.xyz <br>
-
-shoot mail: hey@mosess.xyz
-
+words live here: [blog](https://blog.mosesdebayo.com) <br>  
+say hi: [mail](mailto:hey@mosesadebayo.com)
